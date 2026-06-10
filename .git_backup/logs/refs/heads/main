@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 33db5c1537780cdfebad5003a85188849e5ba492 Evelin N. <egnascime@gmail.com> 1780586607 +0200	commit (initial): Initial project setup: folder structure and README
+33db5c1537780cdfebad5003a85188849e5ba492 33db5c1537780cdfebad5003a85188849e5ba492 Evelin N. <egnascime@gmail.com> 1780586745 +0200	Branch: renamed refs/heads/master to refs/heads/main
+33db5c1537780cdfebad5003a85188849e5ba492 ff8a1d75249bea830d9401d98f656b3e9b488bf0 Evelin N. <egnascime@gmail.com> 1780656110 +0200	commit: Update README file
+ff8a1d75249bea830d9401d98f656b3e9b488bf0 5a461b30db5392704e3a0cded7ab2e868431e25b Evelin N. <egnascime@gmail.com> 1780758392 +0200	commit: EDA update: 2026-06-06
+5a461b30db5392704e3a0cded7ab2e868431e25b b2724b0b55b5be18d0de1b8143834efbc3f1c869 Evelin N. <egnascime@gmail.com> 1780758530 +0200	commit: EDA update: 2026-06-06 add pdf data_dictionary and column description file
+b2724b0b55b5be18d0de1b8143834efbc3f1c869 1c0ac8927a22d1b276f1cc281cddb738b59f90c3 Evelin N. <egnascime@gmail.com> 1780758641 +0200	commit: Add gitignore for Jupyter Checkpoints
+1c0ac8927a22d1b276f1cc281cddb738b59f90c3 62c02f03650f45ed76c926b3e2eb7610e6a8b777 Evelin N. <egnascime@gmail.com> 1780758965 +0200	commit: Ignore Jupyter checkpoints
+62c02f03650f45ed76c926b3e2eb7610e6a8b777 aa69229b8ad840638b2d171a9e2b68bdbfe20871 Evelin N. <egnascime@gmail.com> 1780759184 +0200	commit: Remove incorrect gitignore file
+aa69229b8ad840638b2d171a9e2b68bdbfe20871 c65f3ca1382799cb45b4cc37d6e46e8bdcd2c124 Evelin N. <egnascime@gmail.com> 1780759275 +0200	commit: Ignore system files (.DS_Store)
+c65f3ca1382799cb45b4cc37d6e46e8bdcd2c124 e1c1d5858b872a86c10b6c6892bdbe97f583c17a Evelin N. <egnascime@gmail.com> 1780764903 +0200	commit: EDA update: 2026-06-06
+e1c1d5858b872a86c10b6c6892bdbe97f583c17a ced64f085261c02d8d8724ca92005527298df813 Evelin N. <egnascime@gmail.com> 1781030391 +0200	commit: EDA update: 2026-0609
+ced64f085261c02d8d8724ca92005527298df813 1ec15f79d07ad06bc8a6fe5edecb3e43c7dfc76a Evelin N. <egnascime@gmail.com> 1781109766 +0200	commit: EDA update: 2026-0610
